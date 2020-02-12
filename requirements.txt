@@ -1,3 +1,7 @@
 django
 django-tempus-dominus
 django-widget-tweaks
+Pillow
+mysqlclient
+behave-django
+django-weasyprint
