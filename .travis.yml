@@ -13,4 +13,4 @@ script:
  - python manage.py test
  
 notifications:
-  email: flase
+  email: false
